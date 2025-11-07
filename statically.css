@@ -4,8 +4,18 @@
     background-color: #1F2937;
     color: whitesmoke;
     font-style: Roboto;
+    
+}
+.header, .intro, .image{
+    border: dashed red;
 }
 button{
     background-color: #3882F6;
     color: white;
+    border-radius: 20%;
+}
+.image{
+    background-color: #63737d;
+    height: 20%;
+    width: 59%
 }
