@@ -1,0 +1,11 @@
+.first{
+    width: 50%;
+    height: 25%;
+    background-color: #1F2937;
+    color: whitesmoke;
+    font-style: Roboto;
+}
+button{
+    background-color: #3882F6;
+    color: white;
+}
