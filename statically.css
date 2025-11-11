@@ -6,8 +6,14 @@
     font-style: Roboto;
     
 }
-.header, .intro, .image{
+
+.header{
     border: dashed red;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: flex-start;
 }
 button{
     background-color: #3882F6;
