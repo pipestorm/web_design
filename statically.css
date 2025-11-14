@@ -116,10 +116,10 @@ button{
 }
 .blue_box_btn{
     border-color: white;
-    border-radius: 10px;
-    padding: auto;
+    border-radius: 20%;
+    /* padding: auto; */
     height: 20px;
-    width: 50px;
+    width: 100px;
 }
 .footer{
     background-color: #1F2937;
